@@ -291,9 +291,9 @@ This project is distributed under the MIT License. See the ""LICENSE"" (LICENSE)
 
 # Author
 
-# Ramesh Netheti
+# Kapusetti Priyanka
 
-- GitHub: "@25A31A05IG" (https://github.com/25A31A05IG)
+- GitHub: "@25A31A05GW" (https://github.com/25A31A05GW)
 - Live Project: "Warehouse Robot Pathfinding Simulator" (https://ware-house-robot-path-finding.vercel.app/)
 
 ---
